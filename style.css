@@ -1,0 +1,18 @@
+.head {border: 10px solid powderblue; color: black;}
+.scary{color: antiquewhite; font-weight: bold;}
+.important{font-weight: bold;}
+body {background-color: lightskyblue;}
+p,li {color: seagreen
+; }
+
+em {color: navy}
+Th{font-weight: bold;}
+Table  {border: 1px solid blue;}
+{margin: 0; padding: 0;}
+a[title]{color: antiquewhite;}
+div h2.first{color: antiquewhite;}
+Div ul li {color: black;}
+
+#important{font-weight: bold; color: navy;}
+#stronger{font-size: 20; color:navy}
+#learn{font-weight: bold; font-size: 20; color:navy}
